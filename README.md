@@ -1,4 +1,5 @@
 # Airbnb Clone - Backend Features Documentation
+![WorkFlow Diagram](./WorkFlow.jpg)
 
 ## Core Features
 
