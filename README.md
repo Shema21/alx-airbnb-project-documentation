@@ -63,3 +63,29 @@
 - Database: PostgreSQL
 - Cache: Redis
 - API: REST + GraphQL
+
+## System Requirements
+
+### Technical Stack
+| Component               | Specification           |
+|-------------------------|-------------------------|
+| Backend Framework       | Django 4.2 + DRF        |
+| Database                | PostgreSQL 14+          |
+| Authentication          | JWT Tokens              |
+| Cache                   | Redis 7.0               |
+| Containerization        | Docker 20.10+           |
+
+### Infrastructure
+- **Minimum**: 2GB RAM, 10GB Storage
+- **OS**: Linux/Windows Server 2019+
+
+## Feature Specifications
+
+### User Authentication
+
+**Functional Requirements**
+- ✅ User registration with email verification
+- ✅ JWT-based login/logout
+- ✅ Password recovery
+- ✅ Profile management
+
