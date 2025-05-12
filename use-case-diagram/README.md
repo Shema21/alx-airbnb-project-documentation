@@ -11,8 +11,9 @@
    - Manages bookings
    - Responds to reviews
 
-3. **Payment System** (External System)
+3. **Admin**
    - Processes transactions
+   - all actions
    - Handles refunds
 
 ## Key Use Cases
