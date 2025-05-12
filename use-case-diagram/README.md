@@ -1,4 +1,5 @@
 # Airbnb Clone - Use Case Diagram Documentation
+![Usecase diagram](./Usercasediagram.jpg)
 
 ## Actors
 1. **Guest**
