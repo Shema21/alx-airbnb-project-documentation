@@ -1,5 +1,5 @@
 # User Stories Documentation
-
+![Use Case Diagram](./usecasediagram.jpg)
 This directory contains user stories derived from the Airbnb Clone use case diagram.
 
 ## Structure
