@@ -1,4 +1,5 @@
 # Airbnb Clone - Data Flow Documentation
+![DFD Diagram](./DFD.jpg)
 
 ## DFD Components
 
